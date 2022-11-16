@@ -1,0 +1,10 @@
+.content h2 {
+  font: 600;
+  color: black;
+  text-decoration-line: underline;
+}
+
+.content p {
+  padding: 1rem;
+  margin-top: 1.5rem;
+}
