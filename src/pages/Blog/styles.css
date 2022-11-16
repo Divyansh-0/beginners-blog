@@ -2,6 +2,9 @@
   max-width: 900px;
   margin: 0 auto;
 }
+.blog-wrap h2 {
+  text-decoration-line: underline;
+}
 
 .blog-goBack {
   text-decoration: none;

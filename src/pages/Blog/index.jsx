@@ -37,9 +37,11 @@ const Blog = () => {
             </div>
           </header>
           <img src={blog.cover} alt="cover" />
+          <h2>{blog.titledesc}</h2>
           <p className="blog-desc">{blog.description}</p>
-          {blog?.facts && <p className="blog-desc">{blog.facts}</p>}
-          {blog?.img && <img src={blog.img} alt="" />}
+
+          {blog?.img1 && <img src={blog.img1} alt="" />}
+          {blog?.img2 && <img src={blog.img2} alt="" />}
           <div className="blog-Category">
             {blog.content.map((category, i) => (
               <div key={i}>

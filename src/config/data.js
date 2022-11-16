@@ -2,7 +2,7 @@ export const blogList = [
   {
     id: 1,
     title: "The Revived Generation",
-    category: "development",
+    category: "mental health",
     subCategory: ["selfhelp", "philosphy"],
     content: [
       {
@@ -22,15 +22,16 @@ export const blogList = [
       },
       {
         headings: "",
-        text: `Arjuna, one of the great Pandavas when gave up on the battlefield and lost himself in materialistic desires and attachments then lord Krishna told him this shloka which tells that victory over your mind is difficult, but not impossible with continuous practice and detachment from the physical world you master over your mind. But looking at the current context of society it seems more difficult to get control over the mind, where we don't have any philosophical masters like lord Krishna. 
-      `,
-      },
-      {
-        headings: "",
         text: `असंशयं महाबाहो मनो दुर्निग्रहं चलं।
       अभ्यासेन तु कौन्तेय वैराग्येण च गृह्यते।।6.35।।
       `,
       },
+      {
+        headings: "",
+        text: `Arjuna, one of the great Pandavas when gave up on the battlefield and lost himself in materialistic desires and attachments then lord Krishna told him this shloka which tells that victory over your mind is difficult, but not impossible with continuous practice and detachment from the physical world you master over your mind. But looking at the current context of society it seems more difficult to get control over the mind, where we don't have any philosophical masters like lord Krishna. 
+      `,
+      },
+
       {
         headings: "Causes of mental health imbalance",
         text: `One reason why it's more difficult is our modern-day education system. We taught subjects like maths, science, trade, business, and much more advanced things like artificial intelligence, automation, and robotics but the darker side is that we become skilled but our mental aspect and well-being are continuously diminished. In ancient times from a little age, we were taught subjects like philosophy, and sociology along with practical life-long learnings via spiritual development, meditation, and social duties which embrace our mental growth and mindfulness and help us to stabilize our mind in any context. 
@@ -78,7 +79,8 @@ export const blogList = [
 
     If we took Mental disorders as a share of total disease among the population in the country, as our base of stats we find the horrible figures.Our % of mental disorders among all diseases was 2.31% in 1990
     `,
-    img: ["/assets/images/ar1.jpg", "/assets/images/ar3.jpg "],
+    img1: "/assets/images/ar1.jpg",
+    img2: "/assets/images/ar3.jpg",
 
     authorName: "Nikhilesh Mishra",
     authorAvatar: "/assets/images/author.jpg",
