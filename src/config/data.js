@@ -270,6 +270,102 @@ export const blogList = [
     createdAt: "June 03, 2021",
     cover: "/assets/images/swot.webp",
   },
+  {
+    id: 4,
+    title: "7 Important Life Lessons from Bhagavad Gita for Youths",
+    category: "shopping",
+    subCategory: ["e-commerce store", "clothing", "shopping store"],
+    titledesc: "",
+    description: `When you’re young, life can seem confusing and chaotic; there are so many things to learn, so many issues to deal with, and so many challenges to overcome that it can feel impossible to come out on top. But the Bhagavad Gita teaches us that anything we need in life is within ourselves and therefore can be drawn upon to triumph over any situation that might arise. 
+      Here are 7 key life lessons from Bhagavad Gita specially designed for young people.
+      `,
+
+    content: [
+      {
+        headings:
+          "SWOT analysis is a valuable tool for personal development and career planning.",
+        text: `SWOT analysis is a valuable tool for personal development and career planning. It’s a process that can help you to understand yourself better, as well as your strengths, weaknesses, and opportunities.
+          In this article we will cover the following:
+          ●	What SWOT analysis is
+          ●	How to do an honest SWOT analysis on yourself
+          ●	How to make sure you don't allow your strengths to become weaknesses
+          
+          
+            `,
+      },
+      {
+        headings: "1) Develop a Strong Character",
+        text: `The strong character has a compelling personality, and a clear and well-defined character arc. It is someone who can stand up for themselves, even when they are not 100% sure of what they are fighting for. They know their worth and don't let anyone else dictate that. The best example of this type of character is the protagonist in the Hindu scripture, Bhagavad Gita, which was written over 3,000 years ago but still resonates with readers today. His name is Arjuna and he embodies all these qualities. 
+                   
+            `,
+      },
+
+      {
+        headings: `
+            
+            `,
+        text: `
+        Arjuna's heart always had a powerful desire to do good but his ego often made him believe he knew better than everyone else. He would get into arguments with his friends, family members, teachers, and religious leaders just because he felt like it. He wanted people to see things his way no matter what the consequences were or how much it hurt them. He would then justify his actions by telling himself he did it out of love or concern for them.
+          
+          `,
+      },
+      {
+        headings: `
+        2) Persevere in the Face of Adversity
+            `,
+        text: `Achieving your goals requires persistence, but it also requires patience and resilience. The Bhagavad Gita teaches us to persevere in the face of adversity. To endure and succeed, we need to be able to deal with difficulty and not be discouraged when life becomes challenging. Indeed, we cannot control everything that happens in life, but we can control how we react. This is a valuable lesson for youths who are just starting on their journey toward success. They will inevitably have obstacles thrown at them; however, if they have learned from the teachings of the Bhagavad Gita then they will know how to meet these obstacles head-on and emerge victorious.
+          
+          `,
+      },
+      {
+        headings: "3) Be humble in Victory and Gracious in Defeat",
+        text: `The key to victory is humility. The key to defeat is graciousness. Learn from your mistakes, but don't dwell on them. Don't be afraid of what others think about you. Don't blame others for your mistakes or circumstances. Take responsibility for your actions. Seek knowledge and wisdom, not wealth and power. Always speak the truth. Don't judge others by their caste or race. Practice non-violence and vegetarianism always.
+          
+          `,
+      },
+      {
+        headings: "4) Be True to Your Word",
+        text: `In the Bhagavad Gita, Lord Krishna teaches Arjuna that we are true to our word and do not say something that we don't mean. In other words, we should not speak lies and deceive others because it is not right. As it says in the Bhagavad Gita: Do not utter falsehood with your tongue. Do not proclaim with your lips what you do not know of. 
+          
+          `,
+      },
+      {
+        headings: "",
+        text: `The moral of this lesson is clear: Don't lie or deceive people - be true to your word! A quote from Albert Einstein also captures the essence of being true to one's word: We cannot solve our problems with the same thinking we used when we created them.
+          `,
+      },
+      {
+        headings: "5) cultivate Self-Control",
+        text: `The second lesson you can learn from the Bhagavad Gita is to cultivate self-control. It's a fundamental aspect of self-regulation, which is the ability to control what we do. Self-control involves understanding what we want and then exercising the willpower to resist the temptation to get it. Understanding what you want helps with self-control because it informs your decisions. If you know that drinking too much will interfere with your work productivity, for example, then self-control becomes easier. In this way, knowing what you want gives you a direction to go in as far as where you need to apply more effort on resisting temptation.
+          `,
+      },
+      {
+        headings: "6) Be Pure in the Heart",
+        text: `The purest form of love is unconditional, it does not ask for anything in return. It is about giving and expecting nothing in return. As a youth, you have the power to do this and make a difference in the world. Be pure in heart and kind to everyone you meet, as this will bring more kindness into your life. Stay calm and composed always, like water that remains unperturbed by any outside force. Stand up for what is right, and always take a stand against wrong or injustice. Learn to forgive others who are guilty of hurting you or others because we are all imperfect human beings with feelings that can be hurt at times too. Remain unattached to possessions or people, be content with whatever is available and keep an open mind toward everything that comes your way.
+          `,
+      },
+      {
+        headings: "7) Surrender to God",
+        text: `Surrendering to God is a spiritual and personal experience. It is the act of trusting in a higher power and acknowledging that this power has control over our lives. Surrendering to God does not mean giving up on yourself or your plans. Instead, it means submitting your life to Him and trusting that He will take care of you no matter what happens.
+          `,
+      },
+      {
+        headings: " ",
+        text: `As a young person, it can be difficult to see how God is at work in your life. When you’re young, you want to take control of your life and live on your terms. However, as you grow older and gain more experience in life, you’ll realize that there are many situations where surrendering to God is necessary. Not only does it bring you closer to God, but it also frees up a lot of time and energy that would have otherwise been spent worrying about what was beyond your control anyway.
+          `,
+      },
+      {
+        headings: "Conclusion",
+        text: `Bhagavad Gita is a timeless text that gives a powerful message about karma and reincarnation. It teaches us how to face the challenges of life with determination and equanimity. It is a guide on what it means to be an ethical human being, and how to live in this world. The message in this text can help us all find peace, even in the most difficult of times. Even if you don't know anything about Hinduism or spirituality, the lessons contained within are universal and applicable to all people regardless of background or beliefs. And if you do know something about Hinduism or spirituality, then these lessons will give you more insight into your faith tradition and may just spark a new love for Bhagavad Gita as well!
+          `,
+      },
+    ],
+
+    authorName: "Nikhilesh Mishra",
+    authorAvatar: "/assets/images/author.jpg",
+    createdAt: "June 03, 2021",
+    cover: "/assets/images/ar4.jpg",
+  },
   // {
   //   id: 4,
   //   title: "ADVENTURE IN YOU",
